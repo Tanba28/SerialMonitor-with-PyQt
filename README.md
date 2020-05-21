@@ -1,3 +1,3 @@
 # SerialMonitor-with-PyQt
 
-![Preview](preview.png)
+![Preview](resource/preview.png)
